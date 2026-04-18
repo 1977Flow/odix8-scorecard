@@ -42,10 +42,11 @@ Most teams score 0-3. This is not a failure of engineering talent. It is a failu
 
 This framework is derived from 12 peer-reviewed publications spanning 22 disciplines, including:
 
-- **EMoT: Empirical Model of Thoughtfulness** — [arXiv:2603.24065](https://arxiv.org/abs/2603.24065)
-- **Ontological Distortion Series** — 4-paper series (SSRN, arXiv, npj Digital Medicine)
-- **Terminology Governance Series** — 4-paper series (IJMI, arXiv, JAMIA)
-- **Design Patterns for Ontological Fidelity** — arXiv (in preparation)
+- **EMoT: Enhanced Mycelium of Thought** — [arXiv:2603.24065](https://arxiv.org/abs/2603.24065)
+- **Ontology-Aware Design Patterns for Clinical AI** — [arXiv:2604.01661](https://arxiv.org/abs/2604.01661) (2026)
+- **Ontological Distortion Series** — 4-paper series (SSRN, Cambridge Open Engage, Research Square, arXiv)
+- **Terminology Governance Series** — in preparation (IJMI, arXiv)
+- **PRAXIS-AI Framework** — [SSRN 6474960](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6474960)
 
 Full research corpus: [Research Portfolio](https://1977flow.github.io/odix8-scorecard/research.html)
 
@@ -69,6 +70,10 @@ Based in Halle (Germany) and London (UK).
 
 ## License
 
-Content: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — Attribution required, non-commercial use.
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — attribution required, commercial use permitted.
 
-The Ontological Fidelity framework and design patterns are published research. Citation: Stummer, F. (2026). Ontological Fidelity Scorecard. oDIX8 Systems for Innovation.
+See [LICENSE](LICENSE) for the full license text.
+
+The Ontological Fidelity framework and design patterns are published research.
+
+Citation: Stummer, F. O. (2026). Ontological Fidelity Scorecard. oDIX8 Systems for Innovation. https://github.com/1977Flow/odix8-scorecard
